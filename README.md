@@ -1,6 +1,7 @@
 # 💫 About Me:
 ¡Holaaaa Soy Gabriela! Bienvenido/a a mi git hub💗
-💻 Iniciando sistema: Gabriela.exe  <br>🚀 Estado: en desarrollo constante  <br>🧠 Módulo activo: lógica y resolución de problemas  <br>⚙️ Ejecutando: disciplina + aprendizaje continuo  <br>🤝 Input: nuevos retos | Output: crecimiento real  <br>🌱 Versión actual: mejor que ayer  <br>⚡ Error no encontrado… solo aprendizajes  
+
+💻 Iniciando sistema: Gabriela.exelarreynaga  <br>• Estado: en desarrollo constante and future engineer   <br>• Módulo activo: lógica y resolución de problemas  <br>• Ejecutando: disciplina + aprendizaje continuo  <br>• Input: nuevos retos | Output: crecimiento real  <br>• Versión actual: mejor que ayer  <br>⚡ Error no encontrado… solo aprendizajes  
 
 
 ## 🌐 Socials:
